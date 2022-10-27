@@ -1,0 +1,11 @@
+{
+  "https://framer.com/m/BTN-OK-phJA.js@3yY0AiebEFClwNTOgJUi": { "resolved": "https://framerusercontent.com/modules/z4eUnobRWH99L8G6YeuG/3yY0AiebEFClwNTOgJUi/ymEpRvLjJ.js", "integrity": "sha512-0QD+mVWmv6A0y5NEghJmO3omlOgPYHbNdK21AAhVHFAqDXnT9revuoQdM//dAeLGyLOmS99Hx9hl00+wVHqz6Q==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framer.com/m/Menu-xCPL.js@QAL7J3ZHvKYNIVYWPZ9n": { "resolved": "https://framerusercontent.com/modules/Ku2sXWxsVSH7RW4zzwQh/QAL7J3ZHvKYNIVYWPZ9n/KZJYBNC69.js", "integrity": "sha512-zCZHpixGHL4Aj/X9FSHhQzYxkq6K+6kzOCBvNnpawj+8kEEgQlM6Ky6Rip2YCK/4aRS+kartw4wtthM93kh/yQ==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framerusercontent.com/modules/EC5uHk3ORk9pvfrcrQOO/Zu40igmTrSRHrd6jcpsD/cCBVWNDU4.js": { "integrity": "sha512-JeAXYSBYbwX6/xad+RXjqMsVwm8T/EPgB2ilxTbZYgnIZzxLTcqPYHYKLDxWxMo6P62xjgIOHt1V+WQbZg3qig==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framerusercontent.com/modules/OTfkeJlgZbNmUbsGKLBV/9VHo0Qsp5TrbWZ88pC8U/mKwanrNn6.js": { "integrity": "sha512-Wpzcn3kWI793VzXOchR36htKbSosnLPB+fEdLi/cuwepNWoohe3mnQEAGHZjRSnmKb/H1dfQdMUKu7mBLwNAhg==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framerusercontent.com/modules/OtrknTYWzy3kfHOlREwn/4VtAi8RB5ksQZPurWf89/COKWWmWVZ.js": { "integrity": "sha512-Ski2oFZ0JJvi5cSfBu+j3iq9/Q0qkYobIqSy5fwfbAv0ZWSs1CW2K4BdwLf1hFKZvfk9YoxkDcWolhcAbrAkyA==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framerusercontent.com/modules/mzrMGMWn0QdxjDfHYrEN/wMXZHocWYVA1jzKtX3OG/nX5YuIWxf.js": { "integrity": "sha512-biupWsQnnTfEAmDrErbyxtQSAcmYLZ6xbfejrBUon2ncphwuwNOqgGkKLu1hB34G1PN0ckx1zIBDHPVg1R40zA==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framerusercontent.com/modules/yn0e664bnCj23s0dzkKC/xp6DdEYU1QE5UV6A4eOu/assets/um4WibXbxlxJeMTvENMh7I9VN4.jpg": { "resolved": "https://framerusercontent.com/images/um4WibXbxlxJeMTvENMh7I9VN4.jpg", "integrity": "sha512-G4aVKEFRJOePXjkD98tsAED2lVlLuxgDcwFbq6BOR2WKVKSI0vJnrFr9eikcS+fhV6nh294cMO+K/F3+QQsPgw==", "contentType": "image/jpeg" },
+  "https://framerusercontent.com/modules/yn0e664bnCj23s0dzkKC/xp6DdEYU1QE5UV6A4eOu/lXUGLgG7E.js": { "integrity": "sha512-pnSWdnp8uWXBI4ATFfzSRjGFaNOTHy5ncZNBWw9b4bYRlGT9+Re3cQhp+ZRT1JqYvUDOQb9H9cR598Dom/PIzg==", "contentType": "text/javascript; charset=UTF-8" },
+  "version": 1
+}
